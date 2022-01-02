@@ -1,2 +1,2 @@
-# truc_personal_portfolio
+# template_personal_portfolio
  Just my personal portfolio
