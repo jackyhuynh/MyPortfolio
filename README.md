@@ -1,6 +1,6 @@
 # template_personal_portfolio
 
-## [www.truchuynh_personal_portfolio](https://jackyhuynh.github.io/template_personal_portfolio/)
+## [www.truchuynh.portfolio](https://jackyhuynh.github.io/template_personal_portfolio/)
 
 ## Introduction
 - Custom template for a personal profile. The design was originally by Dr.Angela: [100 Days Of Code](https://www.udemy.com/course/100-days-of-code).
