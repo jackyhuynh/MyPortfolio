@@ -7,26 +7,26 @@
 
 ## Technology
 List of technology
-- Python 
-- Object Oriented Design
-- PyCharm IDE
+- HTML
+- CSS
+- Web Design
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-What things you need to install the software and how to install them
-- PyCharm Community IDE: Be More Productive: Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most of PyCharm's many productivity features. Get Smart Assistance: PyCharm knows everything about your code. Rely on it for intelligent code completion, on-the-fly error checking and quick-fixes, easy project navigation, and much more.
+What things do you need to install the software and how to install them
+- PyCharm Community IDE: Be More Productive: Save time while PyCharm takes care of the routine. Focus on the bigger things and embrace the keyboard-centric approach to get the most out of PyCharm's many productivity features. Get Smart Assistance: PyCharm knows everything about your code. Rely on it for intelligent code completion, on-the-fly error checking and quick fixes, easy project navigation, and much more.
 
 ### Installing
-A step by step series of examples that tell you how to get a development environment running:
+A step-by-step series of examples that tell you how to get a development environment running:
 * Install [PyCharm](https://www.jetbrains.com/help/pycharm/installation-guide.html) Community Edition.
 
 ## Running the tests
 
 
 ## Deployment
-All the notebook can be used for research and academic basic function for Python. 
+All the notebooks can be used for research and academic basic function for Python. 
 
 ## Built With
 * [PyCharm Community IDE](https://www.jetbrains.com/pycharm/download/#section=windows) 
