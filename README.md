@@ -1,4 +1,4 @@
-# Custom Portfolio
+# Journal and Resume
 
 Another simple Portfolio that I made in 2020
 
